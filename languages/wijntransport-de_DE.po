@@ -1,0 +1,283 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wijntransport\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-14 11:18+0000\n"
+"PO-Revision-Date: 2020-10-14 11:18+0000\n"
+"Last-Translator: \n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.1; wp-5.5.1"
+
+#: admin/class-wijntransport-admin.php:89
+msgid "[Wijntransport] Wine listing"
+msgstr "[Wijntransport] Weinliste"
+
+#: admin/class-wijntransport-admin.php:135
+msgid "Wijntransport settings"
+msgstr "Wijntransport-Einstellungen"
+
+#: admin/class-wijntransport-admin.php:136
+#: admin/partials/wijntransport-admin-options.php:17
+msgid "Settings"
+msgstr "die Einstellungen"
+
+#: admin/class-wijntransport-admin.php:144
+msgid "Wijntransport blocked products"
+msgstr "Wijntransport blockierte Produkte"
+
+#: admin/class-wijntransport-admin.php:145
+#: admin/partials/wijntransport-admin-block-options.php:145
+msgid "Blocked products"
+msgstr "Blockierte produkte"
+
+#: admin/class-wijntransport-admin.php:213
+msgid "All wines"
+msgstr "Alle weine"
+
+#: admin/class-wijntransport-admin.php:214
+msgid "All Wines purchased in the last 12 months"
+msgstr "Alle weine in den letzten 12 monaten gekauft"
+
+#: admin/class-wijntransport-admin.php:215
+msgid "All wines purchased"
+msgstr "Alle weine gekauft"
+
+#: admin/class-wijntransport-admin.php:234
+msgid ""
+"The api key you entered it's not valid, please verify if the key you entered "
+"matches the one sent to you by the wijntransport.com admin"
+msgstr ""
+"Der von Ihnen eingegebene API-Schlüssel ist ungültig. Überprüfen Sie, ob der "
+"von Ihnen eingegebene Schlüssel mit dem vom Administrator von wijntransport."
+"com an Sie gesendeten übereinstimmt"
+
+#: admin/class-wijntransport-admin.php:236
+msgid "The api key you entered is valid, settings have been saved"
+msgstr ""
+"Der von Ihnen eingegebene API-Schlüssel ist gültig, die Einstellungen wurden "
+"gespeichert"
+
+#: includes/class-wijntransport-api.php:146
+msgid "Previous page"
+msgstr "Vorherige seite"
+
+#: includes/class-wijntransport-api.php:147
+msgid "Next page"
+msgstr "Nächste seite"
+
+#: templates/wine-listing-template.php:46
+#: templates/wine-listing-template.php:65
+msgid "Filters"
+msgstr "Filter"
+
+#: templates/wine-listing-template.php:53
+#, php-format
+msgid "%s active filter"
+msgid_plural "%s active filters"
+msgstr[0] "%s aktiver filter"
+msgstr[1] "%s aktiver filter"
+
+#: templates/wine-listing-template.php:56
+msgid "No Active Filters"
+msgstr "Keine aktiven Filter"
+
+#: templates/wine-listing-template.php:80 templates/wine-single-template.php:66
+msgid "Country"
+msgstr "Land"
+
+#: templates/wine-listing-template.php:115
+#: templates/wine-listing-template.php:330
+#: templates/wine-single-template.php:105
+msgid "Color"
+msgstr "Farbe"
+
+#: templates/wine-listing-template.php:150
+#: templates/wine-listing-template.php:333
+#: templates/wine-single-template.php:128
+msgid "Volume"
+msgstr "Volumen"
+
+#: templates/wine-listing-template.php:184
+#: templates/wine-listing-template.php:250
+msgid "Show more"
+msgstr "Zeig mehr"
+
+#: templates/wine-listing-template.php:185
+#: templates/wine-listing-template.php:251
+msgid "Show less"
+msgstr "Zeige weniger"
+
+#: templates/wine-listing-template.php:195
+msgid "Producer"
+msgstr "Hersteller"
+
+#: templates/wine-listing-template.php:207
+msgid "Search producer..."
+msgstr "Suche Produzent..."
+
+#: templates/wine-listing-template.php:261
+msgid "Apply Filters"
+msgstr "Filter anwenden"
+
+#: templates/wine-listing-template.php:271
+#: admin/partials/wijntransport-admin-block-options.php:29
+msgid "Search wines..."
+msgstr "Suche nach Weinen..."
+
+#: templates/wine-listing-template.php:293
+msgid "Results"
+msgstr "Ergebnisse"
+
+#: templates/wine-listing-template.php:295
+#, php-format
+msgid "%s product"
+msgid_plural "%s products"
+msgstr[0] "%s  produkt"
+msgstr[1] "%s  produkte"
+
+#: templates/wine-listing-template.php:330
+#: templates/wine-single-template.php:117
+msgid "Alcohol"
+msgstr "Alkohol"
+
+#: templates/wine-listing-template.php:333
+#: templates/wine-single-template.php:217
+msgid "Case Quantity"
+msgstr "Fallmenge"
+
+#: templates/wine-listing-template.php:356
+#: admin/partials/wijntransport-admin-block-options.php:134
+msgid "We couldn't find any matching results, please try again"
+msgstr ""
+"Wir konnten keine passenden Ergebnisse finden. Bitte versuchen Sie es erneut"
+
+#: templates/wine-listing-template.php:360
+msgid "Reset Filters"
+msgstr "Filter zurücksetzen"
+
+#: templates/wine-listing-template.php:371
+#: admin/partials/wijntransport-admin-block-options.php:96
+msgid "from"
+msgstr "von"
+
+#: templates/wine-listing-template.php:371
+#: admin/partials/wijntransport-admin-block-options.php:96
+msgid "products"
+msgstr "Produkte"
+
+#: templates/wine-single-template.php:59
+msgid "Specifications"
+msgstr "Spezifikationen"
+
+#: templates/wine-single-template.php:83
+msgid "Area"
+msgstr "Bereich"
+
+#: templates/wine-single-template.php:94
+msgid "Subarea"
+msgstr "Teilbereich"
+
+#: templates/wine-single-template.php:140
+msgid "Vintage"
+msgstr ""
+
+#: templates/wine-single-template.php:151
+msgid "Allergens egg"
+msgstr "Allergene Ei"
+
+#: templates/wine-single-template.php:154
+#: templates/wine-single-template.php:165
+#: templates/wine-single-template.php:176
+#: templates/wine-single-template.php:187
+#: templates/wine-single-template.php:198
+msgid "Yes"
+msgstr "Ja"
+
+#: templates/wine-single-template.php:154
+#: templates/wine-single-template.php:165
+#: templates/wine-single-template.php:176
+#: templates/wine-single-template.php:187
+#: templates/wine-single-template.php:198
+msgid "No"
+msgstr "Nein"
+
+#: templates/wine-single-template.php:162
+msgid "Allergens milk"
+msgstr "Allergene milch"
+
+#: templates/wine-single-template.php:173
+msgid "Allergens sulphites"
+msgstr "Allergensulfite"
+
+#: templates/wine-single-template.php:184
+msgid "Biological"
+msgstr "Biologisch"
+
+#: templates/wine-single-template.php:195
+msgid "Vegan Friendly"
+msgstr "Vegan freundlich"
+
+#: templates/wine-single-template.php:206
+msgid "Closure type"
+msgstr "Verschlussart"
+
+#: admin/partials/wijntransport-admin-block-options.php:21
+msgid "Blocked Products"
+msgstr "Blockierte Produkte"
+
+#: admin/partials/wijntransport-admin-block-options.php:81
+msgid "Add to blocked products"
+msgstr "Zu blockierten produkten hinzufügen"
+
+#: admin/partials/wijntransport-admin-block-options.php:85
+#: admin/partials/wijntransport-admin-block-options.php:177
+msgid "Remove from blocked products"
+msgstr "Von blockierten Produkten entfernen"
+
+#: admin/partials/wijntransport-admin-block-options.php:104
+msgid "Load More"
+msgstr "Mehr laden"
+
+#: admin/partials/wijntransport-admin-block-options.php:129
+msgid ""
+"The api key is not valid, please contact the administrator of wijntransport."
+"com"
+msgstr ""
+"Der API-Schlüssel ist ungültig. Bitte wenden Sie sich an den Administrator "
+"von wijntransport.com"
+
+#: admin/partials/wijntransport-admin-block-options.php:199
+msgid "No blocked products"
+msgstr "Keine blockierten Produkte"
+
+#: admin/partials/wijntransport-admin-options.php:26
+msgid "Save settings"
+msgstr "Einstellungen speichern"
+
+#. Name of the plugin
+msgid "Wijntransport"
+msgstr "Wijntransport"
+
+#. Description of the plugin
+msgid "Host a catalog of Wijntransport.com products on your own website."
+msgstr ""
+"Hosten Sie einen Katalog mit Wijntransport.com-Produkten auf Ihrer eigenen "
+"Website."
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/wijntransport/"
+msgstr "https://wordpress.org/plugins/wijntransport/"
+
+#. Author of the plugin
+msgid "Manolache Silviu @cultofcoders"
+msgstr "Manolache Silviu @cultofcoders"
+
+#. Author URI of the plugin
+msgid "https://www.cultofcoders.com/"
+msgstr "https://www.cultofcoders.com/"
